@@ -1,4 +1,4 @@
-# Badishagadi Projects Website
+# Badishagadi Projects website
 
 A responsive, static HTML/CSS/JavaScript website with a Cloudflare Pages Function for secure server-side enquiry email delivery.
 
